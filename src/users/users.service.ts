@@ -8,6 +8,6 @@ export class UsersService {
   public createUser(): User {}
   public updateUser(): User {}
   public getUser(): User {}
-  public getUsers(): User {}
+  public getUsers(): User[] {}
   public deleteUser(): User {}
 }
